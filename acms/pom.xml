@@ -11,8 +11,8 @@
     <groupId>com.example</groupId>
     <artifactId>acms</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>客户管理模块</name>
-    <description>Demo project for Spring Boot</description>
+    <name>acms</name>
+    <description>客户模块</description>
     <properties>
         <java.version>1.8</java.version>
         <spring-cloud.version>2020.0.2</spring-cloud.version>

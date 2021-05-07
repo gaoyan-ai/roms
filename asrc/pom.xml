@@ -11,8 +11,8 @@
     <groupId>com.example</groupId>
     <artifactId>asrc</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>注册中心</name>
-    <description>Demo project for Spring Boot</description>
+    <name>asrc</name>
+    <description>注册中心</description>
     <properties>
         <java.version>1.8</java.version>
         <spring-cloud.version>2020.0.2</spring-cloud.version>
